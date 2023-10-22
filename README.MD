@@ -1,4 +1,4 @@
-#[live](www.jobify.live/landing)
+# [live](www.jobify.live)
 
 <div align="center">
 <h1 align="center">
