@@ -1,4 +1,4 @@
-# [live](www.jobify.live)
+# [live](https://www.jobify.live)
 
 <div align="center">
 <h1 align="center">
